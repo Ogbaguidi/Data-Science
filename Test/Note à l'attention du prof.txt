@@ -1,0 +1,13 @@
+Note
+Le projet de Marketing quantitatif a été réaliser sur les logiciels R et Excel.
+Plusieurs scripts furent crées dû à la complexité des données et de la problématique sour R
+Voici l'ordre dans lequel les scripts doivent être exécutés : 
+
+1-Construction des bases, recodages et nettoyage
+2-Statistique descriptive et classification
+3-Geospatial
+4-Satisfaction et textmining
+5-Profil Client
+6-Segmentation RFM et valeur client observée
+7-Modélisation du prix
+8-Fréquence d'achat périodique et Taux d'attrition
