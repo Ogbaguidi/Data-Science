@@ -1,2 +1,2 @@
 # Data Science
- L'ensemble e mes projets pour la data science
+ L'ensemble de mes projets pour la data science
